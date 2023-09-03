@@ -1,6 +1,8 @@
 # Desafio fábrica de software
 ### Workshop de front-end 2023.2 - Consumindo a API de STAR WARS
 
+[Veja meu projeto](https://ligiakaylanne.github.io/workshop-frontend-2023.2/)
+
 <img src="src/img/fotoDoProjeto.png"/>
 <img src="src/img/fotoDoProjeto-2.png"/>
 <img src="src/img/fotoDoProjeto-3.png"/>
